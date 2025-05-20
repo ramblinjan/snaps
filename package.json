@@ -1,0 +1,11 @@
+{
+  "name": "snaps",
+  "version": "1.0.0",
+  "description": "Real-time voting for poetry slams",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
